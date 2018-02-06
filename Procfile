@@ -1,1 +1,0 @@
-web: python my_testbot.py
